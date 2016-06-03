@@ -1,16 +1,12 @@
-# <p align="center">merbot
+# <p align="center">FIRE BOT
 
 <p align="center">**A Telegram Group Administration Bot**
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/wiki/rizaumami/merbot/_images/merbot.png" width="512" alt="Merbot illustration" title="Merbot illustration">
+<p align="center"><img src="http://s6.picofile.com/file/8254162550/photo_2016_05_26_08_44_37.jpg" width="512" alt="Merbot illustration" title="Merbot illustration">
 
-**Merbot** is a dedicated Telegram group administration bot based on [telegram-bot](https://github.com/yagop/telegram-bot).
+**Fire Bot** is a dedicated Telegram group administration bot based on [telegram-bot](https://github.com/yagop/telegram-bot).
 
-Consult [Merbot's wiki](https://github.com/rizaumami/merbot/wiki) for documentation.
+ [Fire Bot CHannel](http://telegram.me/firebotch) 
 
-Please open a [github issue](https://github.com/rizaumami/merbot/issues) if you found an issue with `merbot`.
 
-***
-
-_Thanks to [rizkymsyahputra](https://github.com/rizkymsyahputra) for the awesome merbot artwork_.
